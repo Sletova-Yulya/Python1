@@ -1,0 +1,4 @@
+Smith 18000
+Cooper 50000
+Bloom 15000
+Fowler 41000
